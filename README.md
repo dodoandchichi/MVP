@@ -7,6 +7,7 @@
 ```bash
 git clone https://github.com/dodoandchichi/MVP.git
 conda create -n MVP python=3.11
+conda activate MVP
 pip install -r requirements.txt
 ```
 
